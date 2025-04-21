@@ -1,0 +1,11 @@
+.page_wrapper{
+    /* border: 1px solid red; */
+}
+.content{
+    background-color: rgb(234, 255, 248);
+}
+.text{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color:rgb(123, 180, 184);
+}

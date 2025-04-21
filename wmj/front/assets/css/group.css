@@ -1,0 +1,12 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.post{
+    border: 1px solid red;
+}
+.post img{
+    width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
